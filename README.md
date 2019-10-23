@@ -15,3 +15,6 @@ Projekt wykorzystuje następujące bilbioteki:
 7. Keras 
 
 Instrukcja uruchomienia: 
+
+Należy kliknąć w poniższy link --> https://mybinder.org/v2/gh/igagol/info/master 
+Następnie poczekać chwilkę i po uruchomieniu się wirtualnego jupytera klinąć w "Zadanie.ipynb". 
